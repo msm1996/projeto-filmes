@@ -28,6 +28,9 @@
    <br>
 ♻️ Reaproveitamento de componentes</h2>
 <br>
-📸 Imagem do projeto:
+<h1>📸 Imagem do projeto:</h1>
+<img src= https://github.com/msm1996/projeto-filmes/blob/main/src/Captura%20de%20tela%202026-04-01%20005118.png?raw=true>
+
+ <a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
 
 
