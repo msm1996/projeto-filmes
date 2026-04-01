@@ -9,7 +9,7 @@
 <h1>🛠️ Tecnologias utilizadas:</h1>
 <h2>⚛️ React.js
   <br>
-🎨 Styled Components (ou CSS Modules — ajuste aqui)
+🎨 Styled Components
    <br>
 🌐 API do TMDB
    <br>
