@@ -1,6 +1,7 @@
 <h1>🎬 Catálogo de Filmes</h1>
 
 <h2>Aplicação desenvolvida com React.js que consome a API do TMDB para exibir filmes e séries em um catálogo interativo e responsivo.
+  
 O usuário pode navegar pelo catálogo, visualizar detalhes dos filmes e assistir trailers diretamente na aplicação.</h2>
 
 <br>
