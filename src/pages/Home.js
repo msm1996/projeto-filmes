@@ -5,10 +5,10 @@ import MovieCard from "../components/MovieCard"; // componente para mostrar cada
 import MovieModal from "../components/MovieModal"; // componente para mostrar detalhes do filme
 
 const Title = styled.h1`
-  color: #e50914; /* vermelho estilo streaming */
+  color: #e50914;
   text-align: center;
   margin: 20px 0 30px;
-  font-size: 45px;
+  font-size: clamp(2rem, 5vw, 4rem);
   font-weight: bold;
   letter-spacing: 2px;
 `;
@@ -18,8 +18,8 @@ const Container = styled.div`
   margin: 0 auto;
   padding: 20px;
 
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 20px;
 `
 

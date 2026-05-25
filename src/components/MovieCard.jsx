@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Card = styled.div`
-  width: 200px;
+  width: 100%;
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
@@ -13,6 +13,7 @@ const Card = styled.div`
 
 const Image = styled.img`
   width: 100%;
+  height: auto;
   border-radius: 10px;
 `;
 
